@@ -1,0 +1,73 @@
+[
+	{
+		"id": 1,
+		"username": "zmouse",
+		"password": "zmouse",
+		"profile": [
+			{
+				"id": 1,
+				"username": "钟毅",
+				"telphone": "15800000000",
+				"areaCode": "021",
+				"phone": "11111111",
+				"province": "上海市",
+				"city": "市辖区",
+				"district": "闵行区",
+				"street": "七宝宝龙城T4座905"
+			}
+		]
+	},
+	{
+		"id": 2,
+		"username": "motao",
+		"password": "motao",
+		"profile": [
+			{
+				"id": 1,
+				"username": "莫涛",
+				"telphone": "15800000000",
+				"areaCode": "021",
+				"phone": "11111111",
+				"province": "上海市",
+				"city": "市辖区",
+				"district": "闵行区",
+				"street": "七宝宝龙城T4座905"
+			},
+			{
+				"id": 2,
+				"username": "莫涛",
+				"telphone": "15800000000",
+				"areaCode": "010",
+				"phone": "44444444",
+				"province": "北京市",
+				"city": "市辖区",
+				"district": "海淀区",
+				"street": "西二旗辉煌国际"
+			}
+		]
+	},
+	{
+		"id": 3,
+		"username": "tongbin",
+		"password": "tongbin",
+		"profile": []
+	},
+	{
+		"id": 4,
+		"username": "reci",
+		"password": "reci",
+		"profile": [
+			{
+				"id": 1,
+				"username": "朱王洁",
+				"telphone": "15833333333",
+				"areaCode": "021",
+				"phone": "33333333",
+				"province": "上海市",
+				"city": "市辖区",
+				"district": "闵行区",
+				"street": "七宝宝龙城T4座905"
+			}
+		]
+	}
+]

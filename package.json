@@ -1,0 +1,12 @@
+{
+  "name": "t-backend",
+  "version": "1.0.0",
+  "description": "react锤子商城后台",
+  "main": "index.js",
+  "author": "zmouse@miaov.com",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2"
+  }
+}

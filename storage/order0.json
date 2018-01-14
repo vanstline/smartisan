@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "uid": 1,
+        "status": 0,
+        "freight": 10,
+        "items": [
+            {
+                "itemId": 3,
+                "title": "坚果 Pro 2 文青保护套",
+                "sub_title": "文青配色、质感精良",
+                "name": "远州鼠",
+                "color": "1-yuanzhoushu.jpg",
+                "cover": "1-yuanzhoushu-cover.webp",
+                "quantity": 1,
+                "price": 99.00
+            },
+            {
+                "itemId": 6,
+                "title": "坚果 Pro 2 软胶保护套",
+                "sub_title": "TPU 环保材质、完美贴合",
+                "name": "红色",
+                "color": "2-red.jpg",
+                "cover": "2-red-cover.png",
+                "quantity": 2,
+                "price": 49.00
+            }
+        ],
+        "profile": {
+            "username": "钟毅",
+            "telphone": "15810803027",
+            "areaCode": "021",
+            "phone": "11111111",
+            "province": "上海市",
+            "city": "市辖区",
+            "district": "闵行区",
+            "street": "七宝宝龙城T4座905"
+        },
+        "invoice": {
+            "type": "电子发票",
+            "title": "单位",
+            "name": "北京妙味趣学信息技术有限公司",
+            "content": "发票内容"
+        }
+    }
+]

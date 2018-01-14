@@ -1,0 +1,90 @@
+[
+  	{
+        "id": 1,
+        "title": "坚果 Pro 2 文青保护套",
+		"sub_title": "文青配色、质感精良",
+        "children": [2,3,4]
+    },
+    {
+        "id": 2,
+        "pid": 1,
+        "name": "苏芳",
+        "price": 99.00,
+        "stock": 9999,
+        "color": "1-sufang.jpg",
+        "cover": "1-sufang-cover.webp",
+        "album": [
+            "1-sufang-album-1.webp",
+            "1-sufang-album-2.webp",
+            "1-sufang-album-3.webp",
+            "1-sufang-album-4.webp",
+            "1-sufang-album-5.webp"
+        ]
+    },
+    {
+        "id": 3,
+        "pid": 1,
+        "name": "远州鼠",
+        "price": 99.00,
+        "stock": 9999,
+        "color": "1-yuanzhoushu.jpg",
+        "cover": "1-yuanzhoushu-cover.webp",
+        "album": [
+            "1-yuanzhoushu-album-1.webp",
+            "1-yuanzhoushu-album-2.webp",
+            "1-yuanzhoushu-album-3.webp",
+            "1-yuanzhoushu-album-4.webp"
+        ]
+    },
+    {
+        "id": 4,
+        "pid": 1,
+        "name": "柳煤竹茶",
+        "price": 99.00,
+        "stock": 9999,
+        "color": "1-liumeizhucha.jpg",
+        "cover": "1-liumeizhucha-cover.webp",
+        "album": [
+            "1-liumeizhucha-album-1.webp",
+            "1-liumeizhucha-album-2.webp",
+            "1-liumeizhucha-album-3.webp",
+            "1-liumeizhucha-album-4.webp"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "坚果 Pro 2 软胶保护套",
+		"sub_title": "TPU 环保材质、完美贴合",
+        "children": [6,7]
+    },
+    {
+        "id": 6,
+        "pid": 5,
+        "name": "红色",
+        "price": 49.00,
+        "stock": 9999,
+        "color": "2-red.jpg",
+        "cover": "2-red-cover.png",
+        "album": [
+            "2-red-album-1.png",
+            "2-red-album-2.png",
+            "2-red-album-3.png",
+            "2-red-album-4.png",
+            "2-red-album-5.png"
+        ]
+    },
+    {
+        "id": 7,
+        "pid": 5,
+        "name": "黑色",
+        "price": 49.00,
+        "stock": 9999,
+        "color": "2-black.jpg",
+        "cover": "2-black-cover.png",
+        "album": [
+            "2-black-album-1.png",
+            "2-black-album-2.png",
+            "2-black-album-3.png"
+        ]
+    }
+]
